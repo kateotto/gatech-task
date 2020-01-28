@@ -2,17 +2,17 @@
 
 1.  Sklonuj repozytorium z linku 
 
-1.  Pobierz dane dostarczone w pliku clients.json do twojej aplikacji
+2.  Pobierz dane dostarczone w pliku clients.json do twojej aplikacji
     
-2.  Wyświetl je w formie listy bądź kafelków zawierających wszystkie informacje o kliencie
+3.  Wyświetl je w formie listy bądź kafelków zawierających wszystkie informacje o kliencie
     
-3.  Dodaj pola wyszukiwania filtrujące klientów po imieniu i nazwisku
+4.  Dodaj pola wyszukiwania filtrujące klientów po imieniu i nazwisku
     
-4.  Dodaj opcje sortowania klientów : alfabetycznie[A-Z, Z-A] po polu email 
+5.  Dodaj opcje sortowania klientów : alfabetycznie[A-Z, Z-A] po polu email 
 
-5. (*)  Dodaj opcje sortowania klientów rosnąco/malejąco po polu age
+6. (*)  Dodaj opcje sortowania klientów rosnąco/malejąco po polu age
 
-6. (*)  Wyróżnij graficznie płcie klientów.
+7. (*)  Wyróżnij graficznie płcie klientów.
 
 (*) - dodatkowe
 
