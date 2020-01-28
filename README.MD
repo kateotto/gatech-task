@@ -1,5 +1,7 @@
 ## Zadanie
 
+1.  Sklonuj repozytorium z linku 
+
 1.  Pobierz dane dostarczone w pliku clients.json do twojej aplikacji
     
 2.  Wyświetl je w formie listy bądź kafelków zawierających wszystkie informacje o kliencie
@@ -8,10 +10,11 @@
     
 4.  Dodaj opcje sortowania klientów : alfabetycznie[A-Z, Z-A] po polu email 
 
-5*  Dodaj opcje sortowania klientów rosnąco/malejąco po polu age
+5. (*)  Dodaj opcje sortowania klientów rosnąco/malejąco po polu age
 
-6*  Wyróżnij graficznie płcie klientów.
+6. (*)  Wyróżnij graficznie płcie klientów.
 
+(*) - dodatkowe
 
 ## Zasady
 
@@ -20,6 +23,8 @@
 *   Wizualną cześć zadania pozostawiamy Tobie, będziemy oceniać głównie logikę kodu lecz fajnie jeśli rozwiązanie będzie graficznie spójne i miłe dla oka
 
 *   Do 7 lutego dostarcz rozwiązane zadanie
+
+*   W razie jakichkolwiek dodatkowych pytań odzywajcie się do nas na sz.niemiec@gatechsa.pl
 
 
 ## Jak dostarczyć rozwiązanie
